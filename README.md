@@ -1,3 +1,5 @@
 - 👋 Hi, I’m riyo
 - 👀 I’m interested in gaming, design, farming
-- 🌱 I’m currently learning PHP, MySQL, Python, Javascript, Laravel
+- 🌱 I love coding and design. 
+- my first language program is PHP & HTML. and then i loved to learn something new.
+- Javascript, MySQL, React, RoR (Ruby on Rails), Python, Firebase, VBA Excel
